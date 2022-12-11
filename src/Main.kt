@@ -26,7 +26,7 @@ fun main (args:Array<String>) {
 
     fun sum(a: Int, b:Int) = a+b; //when you return simple expression, you can skip return, type and {}
 
-    println (sum(3,6))
+    println (sum(5,6))
 
 
 
