@@ -1,6 +1,8 @@
 fun main (args:Array<String>) {
     println ("Hello Kotlin");
 
+    //val -> value, can't be changed. Const
+    //var -> variable
     val name: String = "Anton"
     println("Your name is $name")
 
